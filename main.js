@@ -1,4 +1,4 @@
-gitfunction createrGame(player1, hour, player2){
+function createrGame(player1, hour, player2){
   return `
   <li>
     <img src="./assets/icon-${player1}.svg">
